@@ -1,0 +1,58 @@
+{
+  "streams": [
+    {
+      "title": "Second Stream",
+      "description": "This is my second stream",
+      "userId": "105955559157862843435",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "This is my third stream",
+      "userId": "117506041883296639227",
+      "id": 3
+    },
+    {
+      "title": "Fourth Stream",
+      "description": "This is my fourth stream",
+      "userId": "117506041883296639227",
+      "id": 4
+    },
+    {
+      "description": "This is my fifth stream",
+      "title": "Fifth Stream",
+      "userId": "117506041883296639227",
+      "id": 5
+    },
+    {
+      "title": "Sixth Stream",
+      "description": "This is my sixth stream",
+      "userId": "117506041883296639227",
+      "id": 6
+    },
+    {
+      "title": "Seventh Stream",
+      "description": "This is my seventh stream",
+      "userId": "117506041883296639227",
+      "id": 7
+    },
+    {
+      "title": "Eighth Stream",
+      "description": "This is my eighth stream",
+      "userId": "105955559157862843435",
+      "id": 8
+    },
+    {
+      "title": "Ninth Stream",
+      "description": "This is my ninth stream",
+      "userId": "105955559157862843435",
+      "id": 9
+    },
+    {
+      "title": "Tenth Stream",
+      "description": "This is my tenth stream",
+      "userId": "105955559157862843435",
+      "id": 10
+    }
+  ]
+}
